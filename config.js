@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.owner = ['6797309646','27619450119','14242862656','918618971837','14242862656']
+global.premium = ['14242862656','918618971837','27749315158','27619450119','6797309646']
+global.botname = 'The Takahashi Bot'
+global.ownername = 'ᴹᴬᴵᴷᴵ'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = 'proparty of The Takahashi'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -56,8 +56,8 @@ global.dripstyping = false
 global.dripsreadgroup = false
 global.dripsreadall = false
 global.dripsrecord = false
-global.available = false
-global.unavailable = true
+global.available = true
+global.unavailable = false
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -65,22 +65,22 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'The Takahashi INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
+    success: '*success*',
+        ban: '*looks like u got banned type .owner To request unban*',
     horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+    admin: '*this cmd is for admin only*',
     botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    owner: '*this cmd is for bot owner only*',
+    group: '*this feature is only for groups*',
+    private: '*this feature can only used in dm*',
+    bot: '*Special Features for User Bot Number*',
+    wait: '*wait the Takahashi bot processing*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
